@@ -1,0 +1,11 @@
+{
+  "home": {
+    "latestPosts": "Latest Posts"
+  },
+  "about": {
+    "message": "Here you can change this text message and content of the page."
+  },
+  "notFound": {
+    "message": "The page you are looking for does not exist."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "home": {
+    "latestPosts": "Posts Recentes"
+  },
+  "about": {
+    "message": "Aqui você pode editar o conteúdo da página sobre em PT-BR"
+  },
+  "notFound": {
+    "message": "Página não encontrada"
+  }
+}
