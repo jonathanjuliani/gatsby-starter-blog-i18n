@@ -72,8 +72,6 @@ const config = {
           interpolation: {
             escapeValue: false, // não necessário para react pois ele escapa por padrão
           },
-          // keySeparator: false,
-          // nsSeparator: false,
         },
         pages: [
           {

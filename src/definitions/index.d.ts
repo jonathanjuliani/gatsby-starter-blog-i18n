@@ -33,7 +33,7 @@ interface PageProps {
   location: Location;
 }
 
-interface ISite {
+export interface ISite {
   siteMetadata: {
     title: string;
     description: string;

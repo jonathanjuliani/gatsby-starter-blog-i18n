@@ -6,13 +6,14 @@ import { CloseMenu, HambugerMenu } from "./icons";
 import { ProfilePicture } from "./images";
 import SocialLinks from "./SocialLinks";
 import LanguageSwitcher from "./LanguageSwitcher";
+import { ISite } from "@/definitions";
 
 const resources = [
   { labelKey: "nav.home", path: "/" },
   { labelKey: "nav.about", path: "/about" },
 ];
 
-const Nav: React.FC<INavProps> = ({ site }) => {
+const Nav: React.FC<INavProps> = (site: ISite) => {
   const [isOpen, setIsOpen] = useState(false);
   const { social } = site.siteMetadata;
   const { t } = useTranslation();
