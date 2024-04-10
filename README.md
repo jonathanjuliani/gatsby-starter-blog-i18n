@@ -4,6 +4,8 @@
 
 ## 🚀 Quick start
 
+![gatsby blog starter with i18n internationalization](./src/images/gatsby-blog-starter-with-i18n-internationalization.png)
+
 1.  **Install**
 
     I used `yarn` but you may use `npm`
